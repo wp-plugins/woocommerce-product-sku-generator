@@ -16,7 +16,7 @@ Automatically generate WooCommerce product SKUs from the product slug and variat
 
 Generate a descriptive SKU for products (when the product is published or updated) that uses the product slug. If the product is a variable product, this plugin can append attributes for each variation to the SKU to differentiate between them.
 
-**Requires: WooCommerce 2.1+ **
+**Requires: WooCommerce 2.1+**
 
 > **IMPORTANT:** The SKU field will be disabled for simple products and parent products when you install this plugin so that it can't be edited. Your own SKUs previously assigned to products will be overridden if you update a product, and they will change if you change your product slug. Be sure you want to complete automate SKUs if you leave this enabled all of the time.
 
